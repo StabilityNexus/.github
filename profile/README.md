@@ -1,22 +1,6 @@
 <!-- Don't delete it -->
 <div name="readme-top"></div>
 
-<!-- Organization Logo -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <img alt="Stability Nexus" src="../public/stability.svg" width="175">
-</div>
-
-&nbsp;
-
-<!-- Organization Name -->
-<div align="center">
-
-[![Static Badge](https://img.shields.io/badge/Stability-Nexus-228B22?style=for-the-badge&labelColor=FFC517)](https://stability.nexus/)
-
-<!-- Correct deployed url to be added -->
-
-</div>
-
 <!-- Organization/Project Social Handles -->
 <p align="center">
 <!-- Telegram -->
