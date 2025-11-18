@@ -27,13 +27,3 @@
 <a href="https://www.youtube.com/@StabilityNexus">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCZOG4YhFQdlGaLugr_e5BKw?style=flat&logo=youtube&logoColor=white&logoSize=auto&labelColor=FF0000&color=FF0000" alt="Youtube Badge"></a>
 </p>
-
----
-
-## Contributing
-
-We welcome contributions of all kinds! 
-
-To contribute, join our [Discord](https://discord.gg/YzDKeEfWtS).
-
-© 2025 The Stable Order.
