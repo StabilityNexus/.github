@@ -17,25 +17,18 @@ github:
   repos:
     mode: allow
     names:
-    - MiniChain
-    - WalletLink
-    - OrbOracle-EVM-Frontend
-    - OrbOracle-Formalization
-    - OrbOracle-Poster
-    - OrbOracle-Solana
+    - Bene-FundRaising-EVM-Contracts
+    - Bene-FundRaising-EVM-Frontend
+    - Bene-LandingPage
+    - Bountiful-BountyPlatform-Ergo
+    - Chainvoice
+    - Clowder
+    - FairFund
     - Fate-EVM-Frontend
     - Fate-LandingPage
     - Fate-Solana
     - Fate-Solana-WebUI
     - Fate-Sui-Frontend
-    - Tectonic-EVM-WebUI
-    - Chainvoice
-    - Bene-FundRaising-EVM-Contracts
-    - Bene-FundRaising-EVM-Frontend
-    - Bene-LandingPage
-    - Windmill-EVM-Contracts
-    - Windmill-EVM-Keeper
-    - Windmill-EVM-WebUI
     - Gluon-EVM
     - Gluon-EVM-WebUI
     - Gluon-Ergo-Contracts
@@ -43,8 +36,25 @@ github:
     - Gluon-Ergo-UI
     - Gluon-Formalization-Coq
     - Gluon-LandingPage
+    - HackHub-Solidity
+    - HammerAuctionHouse-WebUI
     - IdentityTokens-EVM-Contracts
     - IdentityTokens-EVM-Frontend
+    - Maelstrom-Solidity
+    - MiniChain
+    - OrbOracle-EVM-Frontend
+    - OrbOracle-Formalization
+    - OrbOracle-Poster
+    - OrbOracle-Solana
+    - Plaza
+    - TNT
+    - Tectonic-EVM-WebUI
+    - VouchMe
+    - WalletLink
+    - Windmill-EVM-Contracts
+    - Windmill-EVM-Keeper
+    - Windmill-EVM-WebUI
+    - Zplit
 discord:
   guild_id: '995968619034984528'
   permissions:
@@ -59,25 +69,18 @@ discord:
   activity_channel_id: null
   pr_preview_channels: []
   pr_open_channels:
-    MiniChain: '1471163521877410045'
-    WalletLink: '1525366355682000948'
-    OrbOracle-EVM-Frontend: '1504406274693922837'
-    OrbOracle-Formalization: '1504406274693922837'
-    OrbOracle-Poster: '1504406274693922837'
-    OrbOracle-Solana: '1504406274693922837'
+    Bene-FundRaising-EVM-Contracts: '1311251432359591967'
+    Bene-FundRaising-EVM-Frontend: '1311251432359591967'
+    Bene-LandingPage: '1311251432359591967'
+    Bountiful-BountyPlatform-Ergo: '1352238479094059068'
+    Chainvoice: '1328282666335993856'
+    Clowder: '1283785349356851282'
+    FairFund: '1283782343835910257'
     Fate-EVM-Frontend: '1324064370883301386'
     Fate-LandingPage: '1324064370883301386'
     Fate-Solana: '1324064370883301386'
     Fate-Solana-WebUI: '1324064370883301386'
     Fate-Sui-Frontend: '1324064370883301386'
-    Tectonic-EVM-WebUI: '1503320626096635935'
-    Chainvoice: '1328282666335993856'
-    Bene-FundRaising-EVM-Contracts: '1311251432359591967'
-    Bene-FundRaising-EVM-Frontend: '1311251432359591967'
-    Bene-LandingPage: '1311251432359591967'
-    Windmill-EVM-Contracts: '1458849723296256050'
-    Windmill-EVM-Keeper: '1458849723296256050'
-    Windmill-EVM-WebUI: '1458849723296256050'
     Gluon-EVM: '1283781488587837492'
     Gluon-EVM-WebUI: '1283781488587837492'
     Gluon-Ergo-Contracts: '1283794841482035224'
@@ -85,8 +88,25 @@ discord:
     Gluon-Ergo-UI: '1283794841482035224'
     Gluon-Formalization-Coq: '1283791094651420734'
     Gluon-LandingPage: '1283791094651420734'
+    HackHub-Solidity: '1340297463705108580'
+    HammerAuctionHouse-WebUI: '1326471332895916053'
     IdentityTokens-EVM-Contracts: '1461697098767532269'
     IdentityTokens-EVM-Frontend: '1461697098767532269'
+    Maelstrom-Solidity: '1464456394697736243'
+    MiniChain: '1471163521877410045'
+    OrbOracle-EVM-Frontend: '1504406274693922837'
+    OrbOracle-Formalization: '1504406274693922837'
+    OrbOracle-Poster: '1504406274693922837'
+    OrbOracle-Solana: '1504406274693922837'
+    Plaza: '1334945826535116950'
+    TNT: '1326478469802229800'
+    Tectonic-EVM-WebUI: '1503320626096635935'
+    VouchMe: '1338511070779670620'
+    WalletLink: '1525366355682000948'
+    Windmill-EVM-Contracts: '1458849723296256050'
+    Windmill-EVM-Keeper: '1458849723296256050'
+    Windmill-EVM-WebUI: '1458849723296256050'
+    Zplit: '1438097291704799323'
   notifications:
     enabled: true
     issue_assignment: false
