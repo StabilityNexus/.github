@@ -29,11 +29,11 @@ github:
     - Fate-Solana
     - Fate-Solana-WebUI
     - Fate-Sui-Frontend
-    - Gluon-EVM
-    - Gluon-EVM-WebUI
     - Gluon-Ergo-Contracts
     - Gluon-Ergo-SDK
     - Gluon-Ergo-UI
+    - Gluon-EVM
+    - Gluon-EVM-WebUI
     - Gluon-Formalization-Coq
     - Gluon-LandingPage
     - HackHub-Solidity
@@ -47,10 +47,11 @@ github:
     - OrbOracle-Poster
     - OrbOracle-Solana
     - Plaza
-    - TNT
     - Tectonic-EVM-WebUI
+    - TNT
     - VouchMe
     - WalletLink
+    - Website
     - Windmill-EVM-Contracts
     - Windmill-EVM-Keeper
     - Windmill-EVM-WebUI
