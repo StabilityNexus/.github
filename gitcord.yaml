@@ -28,6 +28,7 @@ github:
     - Fate-LandingPage
     - Fate-Solana
     - Fate-Solana-WebUI
+    - Fate-Solidity
     - Fate-Sui-Frontend
     - Gluon-Ergo-Contracts
     - Gluon-Ergo-SDK
@@ -81,6 +82,7 @@ discord:
     Fate-LandingPage: '1324064370883301386'
     Fate-Solana: '1324064370883301386'
     Fate-Solana-WebUI: '1324064370883301386'
+    Fate-Solidity: '1324064370883301386'
     Fate-Sui-Frontend: '1324064370883301386'
     Gluon-EVM: '1283781488587837492'
     Gluon-EVM-WebUI: '1283781488587837492'
