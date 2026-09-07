@@ -112,7 +112,7 @@ discord:
     Zplit: '1438097291704799323'
   notifications:
     enabled: true
-    issue_assignment: false
+    issue_assignment: true
     pr_review_requested: true
     pr_review_result: true
     pr_review_comment: true
