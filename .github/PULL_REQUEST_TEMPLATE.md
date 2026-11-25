@@ -18,7 +18,7 @@ We encourage contributors to use AI tools responsibly when creating Pull Request
 Check one of the checkboxes below:
 
 - [ ] This PR does not contain AI-generated code at all.
-- [ ] This PR contains AI-generated code. I have read the [AI Usage Policy](https://github.com/AOSSIE-Org/Info/blob/main/AI-UsagePolicy.md) and this PR complies with this policy. I have tested the code locally and I am responsible for it.
+- [ ] This PR contains AI-generated code. I have read the [AI Usage Policy](https://github.com/AOSSIE-Org/Info/blob/main/Rules/AI.md) and this PR complies with this policy. I have tested the code locally and I am responsible for it.
 
 I have used the following AI models and tools: TODO
 
